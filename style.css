@@ -2,10 +2,10 @@
     font-family: 'Inter', sans-serif;
     font-family: 'Montserrat', sans-serif;
     margin: 0;
-    /* background-color: #000; */
+    background-color: #000;
     color: #fff;
     overflow: hidden;
-
+    
 }
 
 .main {
@@ -291,9 +291,3 @@ a {
     height: 1rem;
     width: 1rem;
 }
-
-
-  
-
-
-
